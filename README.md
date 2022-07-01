@@ -4,7 +4,7 @@ The purpose of this challenge is to modify starter code to create an application
 
 ## Description
 
-This website is a password generator.
+This website is a password generator. It asks the user to specify a length between 8 and 128 characters. Then it asks if the user wants to use lowercase characters, uppercase characters, numbers and/or special characters. If the user does not provide adequate parameters, an empty string will be returned with a message to try again. If appropriate parameters are provided, a randomly generated password is provided.
 
 ### User Story
 
@@ -46,10 +46,13 @@ The use of a modern web browser.
 
 ### Screenshots
 
-TODO: Update the screenshots
-
-![Screenshot 1](https://dpk5e7.github.io/module03-challenge/assets/Screenshots/screenshot1.jpg)
-![Screenshot 2](https://dpk5e7.github.io/module03-challenge/assets/Screenshots/screenshot2.jpg)
+![Screenshot 1](./assets/Screenshots/screenshot1.jpg)
+![Screenshot 2](./assets/Screenshots/screenshot2.jpg)
+![Screenshot 3](./assets/Screenshots/screenshot3.jpg)
+![Screenshot 4](./assets/Screenshots/screenshot4.jpg)
+![Screenshot 5](./assets/Screenshots/screenshot5.jpg)
+![Screenshot 6](./assets/Screenshots/screenshot6.jpg)
+![Screenshot 7](./assets/Screenshots/screenshot7.jpg)
 
 ## Authors
 
