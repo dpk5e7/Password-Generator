@@ -1,6 +1,6 @@
-# Module 03 Challenge
+# Password Generator
 
-The purpose of this challenge is to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected.
+This is Module 03 Challenge for the Denver University Coding Bootcamp.  The purpose of this challenge is to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected.
 
 ## Description
 
@@ -42,7 +42,7 @@ The use of a modern web browser.
 
 ### URL
 
-- [https://dpk5e7.github.io/module03-challenge/](https://dpk5e7.github.io/module03-challenge/)
+- [https://dpk5e7.github.io/Password-Generator/](https://dpk5e7.github.io/Password-Generator/)
 
 ### Screenshots
 
