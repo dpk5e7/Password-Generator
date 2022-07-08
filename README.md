@@ -42,7 +42,7 @@ The use of a modern web browser.
 
 ### URL
 
-- [https://dpk5e7.github.io/Password-Generator/](https://dpk5e7.github.io/Password-Generator/)
+- [https://dpk5e7.github.io/password-generator/](https://dpk5e7.github.io/password-generator/)
 
 ### Screenshots
 
